@@ -61,9 +61,11 @@ Wikipedia also mention that in example:
 https://en.wikipedia.org/wiki/Malleability_(cryptography)
 
 Calculate something related to the flag:
+
 ![image1](image1.gif)
 
 Then we send to the server to decrypt it:
+
 ![image2](image2.gif)
 
 Lastly, we simply decide the received number by 2 to get the flag!
