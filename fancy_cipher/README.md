@@ -35,7 +35,7 @@ print(encrypt(e, n, flag))
 ```
 Notice the encrypt function, it **encrypts the flag characters one by one**
 
-Means we can just find the plaintext by just **brute forcing the ciphertext:**
+The public key is also given, means we can just find the plaintext by just **brute forcing the ciphertext:**
 ```py
 flag = ""
 for o in out:
