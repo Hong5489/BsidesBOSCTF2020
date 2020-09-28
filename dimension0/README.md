@@ -7,10 +7,12 @@ Download the file below.
 [dimension_0.html](dimension_0.html)
 
 Just a HTML file, look in a browser:
-[image1](image1.png)
+
+![image1](image1.png)
 
 Nothing interesting, look through the source found something interesting:
-[image2](image2.png)
+
+![image2](image2.png)
 
 Notice the title is filled with [zero width spaces](https://en.wikipedia.org/wiki/Zero-width_space)
 
